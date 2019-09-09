@@ -7,3 +7,5 @@ Button
 Binding View / findViewById()
 Mengambil Nilai dari edittext ===> editText.getText().toString();
 Parsing / mengubah String ke int ===> Interger.parseInt(etTinggi.getText().toString());
+
+![alt text](https://i.imgur.com/GHYLULx.png)
